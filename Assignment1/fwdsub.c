@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <math.h>
+
 int fwdsub(
   unsigned long n,
   double alpha,
